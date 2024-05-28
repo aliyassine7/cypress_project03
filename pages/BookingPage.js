@@ -166,13 +166,6 @@ class BookingPage {
   clickSelectedDateFromCalendar() {
     this.getSelectedDateFromCalendar().click();
   }
-  
-  
-  
-  
-  
-  
-  
-  }
+}
   
   export default BookingPage;
